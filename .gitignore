@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker volumes / temp
+logs/tmp/
+
+# Loki runtime data
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
